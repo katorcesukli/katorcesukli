@@ -1,5 +1,6 @@
-## Hi there 👋
+## Kamusta tol 🌱
 
+Hello I am an up and coming programmer, particularly in back end and tha java language.
 <!--
 **katorcesukli/katorcesukli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
